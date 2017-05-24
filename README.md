@@ -1,3 +1,5 @@
 # hello-world
 
-Random change to test commit changes
+Hello!
+
+Just testing out how to use the commit changes feature on github!
