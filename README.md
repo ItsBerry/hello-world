@@ -1,3 +1,3 @@
 # hello-world
 
-# Random change to test commit changes
+Random change to test commit changes
